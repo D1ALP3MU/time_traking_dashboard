@@ -73,7 +73,7 @@ function drawElements(array){
                 <img class="card__dots" src="./images/icon-ellipsis.svg" alt="three dots">
             </div>
             <div class="card__time">
-                <p class="card__hour">${element.current}</p>
+                <p class="card__hour">${element.current}hrs</p>
                 <p class="card__previous">Previous - ${element.previous}hrs</p>
             </div>
             </div>
